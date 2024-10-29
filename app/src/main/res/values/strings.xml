@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">ImaHistorian</string>
+    <string name="question1">Почему Великий князь Владимрский Всеволод Большое гнездо получил такое прозвище?</string>
+    <string name="SecondActiv_Answ_1">имел много братьев и сестёр</string>
+    <string name="SecondActiv_Answ_2">имел много детей</string>
+    <string name="SecondActiv_Answ_3">имел много резиденций</string>
+    <string name="question2">Когда Москва впервые упомянута в летописях?</string>
+    <string name="ThirdActiv_Answ_1">в 988 г.</string>
+    <string name="ThirdActiv_Answ_2">в 1147 г.</string>
+    <string name="ThirdActiv_Answ_3">в 1223 г.</string>
+    <string name="question3">Перед началом какой знаменитой битвы произошёл поединок Пересвета с Челубеем?</string>
+    <string name="FourthActiv_Answ_1">перед Куликовской битвой</string>
+    <string name="FourthActiv_Answ_2">перед битвой на Чудском озере</string>
+    <string name="FourthActiv_Answ_3">при стоянии на реку Угре</string>
+    <string name="question4">Кто был первым русским царём?</string>
+    <string name="Fifthctiv_Answ_1">Иван Калита</string>
+    <string name="Fifthctiv_Answ_2">Иван IV Грозный</string>
+    <string name="Fifthctiv_Answ_3">Пётр I</string>
+    <string name="question5">В каком древнем русском городе был найдены юерестянные грамоты?</string>
+    <string name="SixthActiv_Answ_1">в Киеве</string>
+    <string name="SixthActiv_Answ_2">в Нижнем Новгороде</string>
+    <string name="SixthActiv_Answ_3">в Новгороде Великом</string>
+
+</resources>

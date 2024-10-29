@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorText">#EB0A4003</color>
+    <color name="colorButton">#9A125204</color>
+    <color name="colorTextButton">#BAE0E7E0</color>
+    <color name="colorToolbar">#A4A61C</color>
+    <color name="colorRadioGroup">#9420610A</color>
+    <color name="colorRadioGroupText">#D0374D03</color>
+    <color name="colorToolbarText">#DE241756</color>
+    <color name="colorTextQuestion">#DE1A3805</color>
+    <color name="colorTextCorrectAnswer">#DE293E03</color>
+    <color name="colorTextNotRightAnswer">#DE6B1C09</color>
+</resources>
